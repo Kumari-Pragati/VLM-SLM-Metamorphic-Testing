@@ -1,4 +1,4 @@
-# Metamorphic Test Generation and Scheduling from UI Semantics: A VLM-SLM Pipeline with Environmental Evaluation
+# Metamorphic Testing using UI Semantics: A VLM-SLM Pipeline with Environmental Impact Assessment
 
 This repository contains the code, prompts, sample outputs and results for a five-phase pipeline that takes ENRICO mobile UI screenshots through UI perception, source test generation, metamorphic relation (MR) generation, MR prioritization and execution scheduling. The pipeline is run with five vision-language model (VLM) and small language model (SLM) pairings, and its energy and emissions cost is measured with CodeCarbon.
 
